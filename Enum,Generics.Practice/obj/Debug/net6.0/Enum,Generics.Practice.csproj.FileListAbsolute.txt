@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\Documents\extention,nullable\Enum,Generics practice\Enum,Generics.Practice\Enum,Generics.Practice\bin\Debug\net6.0\Enum,Generics.Practice.exe
+C:\Users\Asus\OneDrive\Documents\extention,nullable\Enum,Generics practice\Enum,Generics.Practice\Enum,Generics.Practice\bin\Debug\net6.0\Enum,Generics.Practice.deps.json
+C:\Users\Asus\OneDrive\Documents\extention,nullable\Enum,Generics practice\Enum,Generics.Practice\Enum,Generics.Practice\bin\Debug\net6.0\Enum,Generics.Practice.runtimeconfig.json
+C:\Users\Asus\OneDrive\Documents\extention,nullable\Enum,Generics practice\Enum,Generics.Practice\Enum,Generics.Practice\bin\Debug\net6.0\Enum,Generics.Practice.dll
+C:\Users\Asus\OneDrive\Documents\extention,nullable\Enum,Generics practice\Enum,Generics.Practice\Enum,Generics.Practice\bin\Debug\net6.0\Enum,Generics.Practice.pdb
+C:\Users\Asus\OneDrive\Documents\extention,nullable\Enum,Generics practice\Enum,Generics.Practice\Enum,Generics.Practice\obj\Debug\net6.0\Enum,Generics.Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Documents\extention,nullable\Enum,Generics practice\Enum,Generics.Practice\Enum,Generics.Practice\obj\Debug\net6.0\Enum,Generics.Practice.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Documents\extention,nullable\Enum,Generics practice\Enum,Generics.Practice\Enum,Generics.Practice\obj\Debug\net6.0\Enum,Generics.Practice.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Documents\extention,nullable\Enum,Generics practice\Enum,Generics.Practice\Enum,Generics.Practice\obj\Debug\net6.0\Enum,Generics.Practice.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Documents\extention,nullable\Enum,Generics practice\Enum,Generics.Practice\Enum,Generics.Practice\obj\Debug\net6.0\Enum,Generics.Practice.dll
+C:\Users\Asus\OneDrive\Documents\extention,nullable\Enum,Generics practice\Enum,Generics.Practice\Enum,Generics.Practice\obj\Debug\net6.0\refint\Enum,Generics.Practice.dll
+C:\Users\Asus\OneDrive\Documents\extention,nullable\Enum,Generics practice\Enum,Generics.Practice\Enum,Generics.Practice\obj\Debug\net6.0\Enum,Generics.Practice.pdb
+C:\Users\Asus\OneDrive\Documents\extention,nullable\Enum,Generics practice\Enum,Generics.Practice\Enum,Generics.Practice\obj\Debug\net6.0\Enum,Generics.Practice.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Documents\extention,nullable\Enum,Generics practice\Enum,Generics.Practice\Enum,Generics.Practice\obj\Debug\net6.0\ref\Enum,Generics.Practice.dll
